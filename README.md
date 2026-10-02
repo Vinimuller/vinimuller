@@ -41,4 +41,4 @@ I'm a founder/partner at **Raks Tecnologia Agrícola**, where we build IoT for a
 
 ## 📫 Let's talk
 
-Interested in agtech, IoT, cellular connectivity or audio electronics? Reach out on [LinkedIn](https://www.linkedin.com/in/vinimuller/).
+Interested in agtech, web dev, IoT, cellular connectivity or audio electronics? Reach out on [LinkedIn](https://www.linkedin.com/in/vinimuller/).
